@@ -45,3 +45,7 @@ Deploying contracts with hardhat
 ```zsh
 yarn hardhat deploy-zksync
 ```
+
+## Resources
+
+- [zkSync Greeter Tutorial](https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html#retrieving-the-greeting)
