@@ -1,3 +1,5 @@
-[submodule "frontend"]
-	path = frontend
+[submodule "front-end"]
 	url = https://github.com/mmsaki/zksync-frontend
+	path = front-end
+[submodule "front-end/"]
+	branch = dev
